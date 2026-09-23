@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "0922cf3be6f46cf32b168dab",
+  "owner": "jaxqghhgjxu",
+  "repo": "page-b40d9ebaf2787301512fe724",
+  "title": "白蘑菇",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b40d9ebaf2787301512fe724",
+      "a": "白蘑菇",
+      "b": "2027官方最新地址导航",
+      "entity": "白蘑菇",
+      "brand": "白蘑菇",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ae2d3e3df6f5b8c6cff781952a048bc8885b05b5e75848a60e4e9d3179558af9",
+      "content": {
+        "primary_entity": "白蘑菇",
+        "keyword1": "白蘑菇",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "不同设备对应不同客户端，按系统选择更顺畅。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选好套餐后，依客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "白蘑菇套餐与配置",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，年付均有折扣；客户端覆盖 Windows、macOS、Android、iOS 与路由器，适合按设备数量与订阅周期挑选。",
+          "AI_FEATURES_INTRO": "选套餐时优先看流量、设备数和线路类型。",
+          "AI_FEATURES_TITLE": "白蘑菇特点",
+          "AI_FEATURE_TEXT_1": "基础版适合单人轻量使用，旗舰版支持 5 台设备与 IPLC 专线。",
+          "AI_FEATURE_TEXT_2": "年付比月付更划算，团队版可满足 20 台设备与定制路由。",
+          "AI_FEATURE_TEXT_3": "Windows、macOS、Android、iOS 和路由器均有对应客户端可配置。",
+          "AI_FEATURE_TITLE_1": "套餐梯度清晰",
+          "AI_FEATURE_TITLE_2": "周期灵活可选",
+          "AI_FEATURE_TITLE_3": "多端配置支持",
+          "AI_GUIDE_INTRO": "按需求选服务、核对设备要求，再依文档配置订阅。",
+          "AI_GUIDE_TITLE": "白蘑菇使用步骤",
+          "AI_HERO_INTRO": "白蘑菇提供多档海外加速套餐，覆盖基础影音、游戏专线与团队协作场景。",
+          "AI_HERO_SUBTITLE": "选白蘑菇套餐，按设备配订阅",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "年付享折扣更划算",
+          "AI_HIGHLIGHT_3": "主流客户端配置指引",
+          "AI_PLANS_INTRO": "基础版每月 100GB 支持 3 台设备，旗舰版 300GB 支持 5 台并含 IPLC 专线，团队版 1000GB 支持 20 台设备。",
+          "AI_PLANS_TITLE": "白蘑菇套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量和设备数量，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认所用系统与硬件是否满足客户端运行要求，并准备合适的网络环境。",
+          "AI_STEP_TEXT_3": "按对应客户端文档添加订阅信息，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "核对要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "白蘑菇套餐选择",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、支持3台设备，适合手机与电脑轻度使用；旗舰版每月300GB、5台设备，适合多设备日常与流媒体。",
+          "AI_FAQ_ANSWER_2": "登录后进入订阅管理，复制订阅链接或下载配置文件，按所选客户端的导入说明操作即可。",
+          "AI_FAQ_ANSWER_3": "团队版支持最多20台设备同时在线，如需更多设备或企业定制路由，可通过专属客户经理沟通。",
+          "AI_FAQ_ANSWER_4": "可以，套餐支持按月付费，也提供年付方案，按年付更划算，可按使用周期灵活切换。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含IPLC专线游戏加速优化和高带宽节点，对延迟敏感的游戏或远程办公体验更稳定。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版流量与设备数有什么区别？",
+          "AI_FAQ_QUESTION_2": "如何导入订阅到客户端？",
+          "AI_FAQ_QUESTION_3": "团队版最多支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_4": "可以按月付费吗？年付有优惠吗？",
+          "AI_FAQ_QUESTION_5": "旗舰版相比基础版在游戏加速方面有何优势？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "laxbfrsb.com",
+    "host": "laxbfrsb.com"
+  },
+  "file_hashes": {
+    "index.html": "376b6edec1f08fff77e1fcd58905533b8e1f5bd85387423b4b1d2601199cc7ac",
+    "sitemap.xml": "3e576949f3ef9c7c643fc750d7e734d9fe4fb4a547cdef9e9cb683e3d6c9126e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "45d8ad9dd68b669df080e211a52e219baa75417469e68127ceabb75787adad41",
+    "robots.txt": "a8715bd2c974ccd9d8673f7e84187571947940688d4f129a2e80f1518b508e03",
+    "40908064d924f41c52b6b9867bcf5951.txt": "016a4d5df68bd039be1a0c177aa8ae3bc1982989b004c2cfeb240c274650e2f7"
+  },
+  "revision": "7a94fcfa94e5858694e9660a57d537cefbd6b0dc4dea43fec91fdc4c387bc83c"
+}
